@@ -1,0 +1,7 @@
+# Ignore large dataset files
+data/ngrams/top_49887_words.csv
+data/ngrams/top_14377_words.csv
+
+# Ignore build outputs and IDE metadata
+out/
+.idea/
