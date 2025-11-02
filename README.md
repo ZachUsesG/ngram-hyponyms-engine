@@ -56,5 +56,6 @@ Developed as a hybrid of computational linguistics and data visualization, this 
 
 Credits
 Created by Zach Makari
+Developed as part of UC Berkeley’s CS 61BL curriculum and extended as an independent project in computational linguistics, data visualization, and semantic graph modeling.
 WordNet data © Princeton University
 Google N-Gram data © Google Research
